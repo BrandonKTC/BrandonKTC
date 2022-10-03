@@ -9,6 +9,9 @@ Iv'e been learning to code for 4 years now, I develops machine / deep learning m
 *   🌍  I'm based in Paris
 *   ⚡  Currently open to Freelance project
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonKTC)](https://git.io/streak-stats)
+
 [![BrandonKTC's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonKTC)](https://github.com/BrandonKTC/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonKTC&layout=compact)](https://github.com/BrandonKTC/github-readme-stats)
+
