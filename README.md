@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Scientist
 --------------------------------------
 
-Iv'e been learning to code for 4 years now, I develops machine / deep learning models and website
+Iv'e been coding for 4 years now, I develops machine / deep learning models and website
 
 *   🌍  Love programming
 *   ⚡  Always learning new tricks
