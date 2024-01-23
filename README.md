@@ -4,7 +4,3 @@
     <td>Be uncommon among common people </td>
     </tr>
 </table>
-
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonKTC&theme=highcontrast)
-  
